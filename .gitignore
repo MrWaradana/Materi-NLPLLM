@@ -1,0 +1,13 @@
+.venv
+/venv
+venv
+
+qwen2.5-3b-lora
+qwen2.5-3b-lora/
+qwen2.5-3b-lora/*
+
+tinyllama-gofood-lora
+tinyllama-gofood-lora/
+tinyllama-gofood-lora/*
+
+

@@ -1,0 +1,741 @@
+query,retrieved_documents,answer_rag,answer_llm,similarity_score,bleu_score
+Saya ingin jajanan makanan khas Indonesia.,"
+    Pertanyaan: Saya ingin Korea/Minuman/Jajanan. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Boonsikdang, Hublife Jakarta
+Kategori: Korea/Minuman/Jajanan
+Produk & Harga:
+- Original Topokki | Harga: 67320.0
+- MozzarellaTopokki | Harga: 93720.0
+- Kimmari Topokki | Harga: 93720.0
+- Ganjeong Topokki | Harga: 93720.0
+- Rapokki | Harga: 101640.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Hedon Cafe, Sukatani
+Kategori: Ayam & bebek/Jajanan/Minuman
+Produk & Harga:
+- Milkshake | Harga: 11500.0
+- Jus Buah | Harga: 11500.0
+- Soda Drink | Harga: 11500.0
+- Es Kopi | Harga: 11500.0
+- Thailand Drink | Harga: 11500.0
+    
+
+    Pertanyaan: Saya ingin Bakmie/Chinese/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakmi Lopui 93
+Kategori: Bakmie/Chinese/Minuman
+Produk & Harga:
+- Bakmi Rebus Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kalimantan | Harga: 30000.0
+- Bakmi Kuah Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kari | Harga: 30000.0
+- Bakmi Siram Kalimantan | Harga: 30000.0
+    ","**Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.**","Berikut beberapa tempat yang wajib kamu coba untuk menikmati jajanan khas Indonesia yang lezat dan otentik:
+
+| No | Nama Tempat | Lokasi | Jajanan Populer |
+|----|--------------|--------|-----------------|
+| 1️⃣ | **Warung Makan “Kampung Kue”** | Jalan Sabang, Jakarta Pusat | **Kue Lapis**, **Klepon**, **Onde‑onde** |
+| 2️⃣ | **Pusat Kuliner “Pasar Santa”** | Jalan Cipaku I, Jakarta Selatan | **Martabak Manis**, **Tahu Gejrot**, **Es Campur** |
+| 3️⃣ | **Pesona Nusantara** | Jalan Diponegoro, Surabaya | **Sate Madura**, **Bakso Malang**, **Bubur Ketan Hitam** |
+| 4️⃣ | **Kedai “Nasi Goreng Kampung”** | Jalan Gajah Mada, Bandung | **Nasi Goreng Kambing**, **Serabi**, **Cilok** |
+| 5️⃣ | **Kuliner Rumah “Sari Rasa”** | Jalan Malioboro, Yogyakarta | **Bakpia Pathok**, **Gudeg Mini**, **Wedang Ronde** |
+
+✨ **Tips:** Datang lebih pagi untuk menghindari antrian panjang, dan siapkan uang tunai kecil karena banyak pedagang masih belum menerima kartu.
+
+Selamat menjelajah rasa Indonesia! 🍽️✨",0.5829624626822639,1.0000000000000004
+Rekomendasikan saya tempat untuk membeli makanan Jepang.,"
+    Pertanyaan: Saya ingin Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Aneka Gorengan Siaga
+Kategori: Jajanan/Minuman
+Produk & Harga:
+- bakwan Sayur | Harga: 1500.0
+- tempe Crispi | Harga: 1500.0
+- tahu Jeletot | Harga: 1500.0
+- tahu Pong | Harga: 1500.0
+- risole | Harga: 1500.0
+    
+
+    Pertanyaan: Saya ingin Jepang/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: HokBen, Bogor Yasmin
+Kategori: Jepang/Aneka nasi
+Produk & Harga:
+- 2 pcs Ayam Goreng + Nasi + Ice Lemon Tea | Harga: 57000.0
+- 5 pcs Ayam Goreng + Nasi | Harga: 129000.0
+- 9 pcs Fried Chicken | Harga: 197000.0
+- 6 Hoka Hemat | Harga: 168000.0
+- Beef + Egg Chicken Roll + Nasi + Egg | Harga: 57000.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Seafood/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: KAMPUNG TELAGA,  Ciracas
+Kategori: Ayam & bebek/Seafood/Aneka nasi
+Produk & Harga:
+- Gurame Bakar | Harga: 90000.0
+- Gurame Goreng | Harga: 90000.0
+- Gurame Asam Manis | Harga: 90000.0
+- Pecak Gurame | Harga: 90000.0
+- Paket Nasi Timbel | Harga: 45000.0
+    ","**🍣 Rekomendasi Tempat Makan Jepang – HokBen (Bogor Yasmin) 🍱**  
+
+| Kategori | Jepang / Aneka Nasi |
+|----------|----------------------|
+| **Nama Restoran** | **HokBen – Bogor Yasmin** |
+| **Alamat** | Jl. Yasmin No. 78, Bogor (dekat pusat perbelanjaan Yasmin Mall) |
+| **Jam Operasional** | 10.00 – 22.00 WIB (setiap hari) |
+| **Cara Pemesanan** | • **Datang langsung** ke restoran untuk menikmati hidangan langsung di tempat.<br>• **Telepon**: 0812‑3456‑7890 (pesan dulu, konfirmasi ketersediaan).<br>• **Online**: GoFood / GrabFood – cari “HokBen Bogor Yasmin”, pilih menu, lalu pilih pembayaran (cash atau e‑wallet). |
+
+### 📋 Menu Pilihan & Harga (per porsi)
+
+| Produk | Harga (IDR) |
+|--------|-------------|
+| 2 pcs Ayam Goreng + Nasi + Ice Lemon Tea | **57.000** |
+| 5 pcs Ayam Goreng + Nasi | **129.000** |
+| 9 pcs Fried Chicken | **197.000** |
+| 6 Porsi Hoka Hemat (paket combo) | **168.000** |
+| Beef + Egg Chicken Roll + Nasi + Egg | **57.000** |
+
+> *Catatan*: Semua paket sudah termasuk nasi dan minuman (Ice Lemon Tea atau teh jepang) sehingga cocok untuk makan siang atau makan malam yang praktis.
+
+### 🚀 Langkah Selanjutnya
+
+1. **Tentukan Menu** – Pilih paket yang paling sesuai dengan selera dan jumlah porsi yang Anda butuhkan.  
+2. **Pesan** –  
+   - **Online**: Buka aplikasi GoFood / GrabFood, ketik “HokBen Bogor Yasmin”, pilih menu, dan ikuti proses checkout.  
+   - **Telepon**: Hubungi 0812‑3456‑7890, sebutkan nama paket, jumlah porsi, dan alamat pengiriman (jika mau diantar).  
+   - **Langsung Datang**: Nikmati suasana restoran, duduk, dan pesan lewat pelayan.  
+3. **Pembayaran** – Pilih cash, kartu debit/kredit, atau e‑wallet (OVO, GoPay, Dana) sesuai platform yang Anda gunakan.  
+4. **Nikmati** – Setelah pesanan datang, bersantaplah sambil menikmati rasa autentik Jepang yang terjangkau dan lezat!
+
+---
+
+**Tips Tambahan**  
+- *Paket Hemat* (6 porsi Hoka Hemat) cocok untuk kumpul keluarga atau acara kantor karena rasanya tetap otentik dengan harga lebih bersahabat.  
+- Jika Anda suka **variasi rasa**, coba kombinasi Beef + Egg Chicken Roll dengan set nasi + egg, rasanya gurih dengan sentuhan manis dari saus teriyaki.  
+
+Selamat menikmati kuliner Jepang di **HokBen Bogor Yasmin**! 🍜✨   
+
+*(Jika Anda membutuhkan rekomendasi lainnya, silakan beri tahu kriteria tambahan—misalnya jenis makanan Jepang spesifik, area lain, atau budget yang diinginkan.)*","Berikut beberapa rekomendasi tempat makan Jepang yang patut kamu coba:
+
+| No | Nama Tempat | Lokasi | Menu Unggulan | Catatan |
+|---|--------------|--------|---------------|---------|
+| 1 | **Sushi Hiro** | Jalan Sudirman No. 12, Jakarta | Sushi roll, sashimi segar, tempura | Suasana modern, cocok untuk makan malam romantis |
+| 2 | **Ramen Neko** | Plaza Asia, Bandung | Ramen tonkotsu, miso ramen, gyoza | Kuah kaldu kaya rasa, porsi besar |
+| 3 | **Izakaya Kura** | Jalan Malioboro No. 45, Yogyakarta | Yakitori, takoyaki, okonomiyaki | Harga terjangkau, cocok untuk kumpul bareng teman |
+| 4 | **Bento House** | Lippo Mall Puri, Tangerang | Bento box, donburi, matcha dessert | Menu lengkap dalam satu paket, praktis untuk makan siang |
+| 5 | **Katsu Kata** | Jalan Braga No. 21, Surabaya | Tonkatsu, katsu curry, udon | Daging renyah, saus katsu khas rumah |
+
+Semua tempat di atas menawarkan citarasa Jepang otentik dengan kualitas bahan yang terjamin. Selamat menikmati!",0.5401207208227421,0.040654357922878595
+Dimana saya bisa mendapatkan pizza enak?,"
+    Pertanyaan: Saya ingin Pizza & pasta. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Gianni's Pizzeria
+Kategori: Pizza & pasta
+Produk & Harga:
+- Half Cheesist Christ! N Half? | Harga: 350000.0
+- Half Classic Pizza N Half? | Harga: 300000.0
+- Classic Pizza | Harga: 34000.0
+- Sexyroni | Harga: 39000.0
+- Shrooms | Harga: 39000.0
+    
+
+    Pertanyaan: Saya ingin Barat. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Abuba Steak, Cikarang
+Kategori: Barat
+Produk & Harga:
+- Tas ABUBA ( Max 5 Box ) | Harga: 13200.0
+- Lychee Popping Boba | Harga: 35200.0
+- Peach Popping Boba | Harga: 35200.0
+- Choco Volcano | Harga: 49500.0
+- Oreo Fruit Blast | Harga: 39600.0
+    
+
+    Pertanyaan: Saya ingin Minuman/Sweets/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Gelato House Cafe 
+Kategori: Minuman/Sweets/Cepat saji
+Produk & Harga:
+- Small ( 1 Rasa ) | Harga: 28750.0
+- Medium ( Mix 2 Rasa ) | Harga: 40250.0
+- Large (Mix 3 Rasa) | Harga: 63250.0
+- Croffle 1 Pcs | Harga: 12000.0
+- Triple Croffle | Harga: 30000.0
+    ","**Rekomendasi Pizza Enak untuk Anda**
+
+---
+
+### 🍕 **Gianni's Pizzeria**  
+*Spesialis Pizza & Pasta*  
+
+**Lokasi:** (contoh) Jalan Merdeka No. 45, Jakarta Selatan  
+**Cara Pemesanan:**  
+1. **Telepon:** 0812‑3456‑7890  
+2. **Aplikasi Delivery:** GoFood, GrabFood, atau ShopeeFood – cari “Gianni's Pizzeria”.  
+3. **Website:** www.giannispizza.id (pilih “Online Order” → pilih menu → checkout).  
+
+---
+
+#### 📋 Menu Utama & Harga (per potong / satu porsi)
+
+| Produk | Harga (IDR) |
+|---|---|
+| **Half Cheesist Christ! N Half?** | 350.000 |
+| **Half Classic Pizza N Half?** | 300.000 |
+| **Classic Pizza** | 34.000 |
+| **Sexyroni** (pasta dengan sentuhan keju) | 39.000 |
+| **Shrooms** (pizza jamur premium) | 39.000 |
+
+> *Catatan:* Pizza “Classic” cocok untuk pencinta rasa tradisional, sementara “Half Cheesist” dan “Half Classic” menawarkan kombinasi dua topping dalam satu pizza—ideal untuk berbagi.
+
+---
+
+### 🎯 Mengapa Pilih Gianni's Pizzeria?
+- **Bahan Berkualitas:** Tepung khas Italia, keju mozzarella 100 % asli, dan topping segar.
+- **Rasa Konsisten:** Oven batu tradisional menghasilkan kerak renyah di luar namun tetap lembut di dalam.
+- **Pilihan Menu Beragam:** Dari pizza sederhana hingga kombinasi setengah‑setengah yang unik.
+- **Layanan Cepat:** Pengantaran dalam 30‑45 menit (tergantung zona) atau dapat di‑take‑away.
+
+---
+
+### 🔧 Langkah Selanjutnya
+1. **Tentukan Menu:** Pilih satu atau lebih varian pizza di atas (misalnya “Half Cheesist” + “Classic Pizza” untuk variasi rasa).  
+2. **Pilih Metode Pengantaran:** Jika ingin makan di rumah, pilih “Delivery” di aplikasi; kalau ingin makan di tempat, pilih “Pickup”.  
+3. **Masukkan Alamat & Waktu Pengiriman:** Pastikan detail lengkap agar pizza tiba panas dan segar.  
+4. **Konfirmasi & Bayar:** Pilih metode pembayaran (cash on delivery, OVO, GoPay, atau kartu kredit).  
+5. **Nikmati!** Pizza akan tiba dalam kondisi hangat dengan aroma yang menggoda selera.
+
+---
+
+**Selamat menikmati pizza lezat dari Gianni's Pizzeria!** Jika Anda membutuhkan rekomendasi minuman atau dessert yang cocok untuk melengkapi pizza, kami siap membantu. 🍽️😊","Untuk pizza enak, coba kunjungi salah satu dari berikut ini:
+
+- **Domino’s Pizza** – jaringan internasional dengan berbagai pilihan topping, layanan cepat, dan promo reguler.  
+- **Pizza Hut** – menu klasik dan premium seperti “Stuffed Crust” serta layanan delivery yang luas.  
+- **Pizzeria Napoli** (Jakarta) – pizza bergaya Italia dengan adonan tipis renyah dan bahan segar.  
+- **Mamma Mia** (Bandung) – suasana cozy dan pizza kayumanis khas oven kayu.  
+- **Pizza Mancini** (Surabaya) – pizza dengan bahan lokal berkualitas dan rasa autentik Napoli.  
+
+Semua tempat di atas menyediakan layanan delivery maupun dine‑in, sehingga kamu bisa menikmati pizza enak sesuai selera dan lokasi. Selamat menikmati!  ",0.6678730657181904,0.02090442490346565
+Saya mencari restoran yang menjual burger.,"
+    Pertanyaan: Saya ingin Jajanan/Cepat saji/Bakso & soto. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Burger Naura
+Kategori: Jajanan/Cepat saji/Bakso & soto
+Produk & Harga:
+- Paket, 2 Burger, Kentang, Sosis, Otak Otak | Harga: 20000.0
+- Paket 1 Burger Dan Kentang Otak Otak | Harga: 17000.0
+- Burger+sosis | Harga: 17000.0
+- Paket, 1 Burger, Sosis Medium, Kentang, Doble Mayonaise Dan Saus | Harga: 18000.0
+- Paket 3 Burger | Harga: 25000.0
+    
+
+    Pertanyaan: Saya ingin Barat/Seafood/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: CIATER BEACH
+Kategori: Barat/Seafood/Aneka nasi
+Produk & Harga:
+- Iga Asam Pedas | Harga: 86250.0
+- Chiken Cream Soup | Harga: 46000.0
+- Tom Yam Soup | Harga: 86250.0
+- Green Juice | Harga: 40250.0
+- Avocado Juice | Harga: 40250.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Barat/Minuman/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Burger Bros, Ciledug
+Kategori: Ayam & bebek/Barat/Minuman/Cepat saji
+Produk & Harga:
+- BroBagi 1 - The Chicken Burger Meal | Harga: 130960.0
+- BroBagi 2 - The Brothers Meal | Harga: 136960.0
+- BroBagi 3 - The Crispy Chicken Meal | Harga: 132960.0
+- The Brothers | Harga: 81989.0
+- The Chicken Burger Combo | Harga: 75980.0
+    ","**🍔 Rekomendasi Restoran yang Menyajikan Burger Lezat 🍔**
+
+Berikut dua pilihan terbaik yang berhubungan dengan data yang kami miliki. Kedua tempat ini menyajikan burger dengan variasi menu yang lengkap, harga yang bersahabat, serta cara pemesanan yang mudah.
+
+---
+
+### 1️⃣ **Burger Naura**  
+**Kategori:** Jajanan / Cepat Saji / Bakso & Soto  
+
+| Produk | Deskripsi singkat | Harga |
+|--------|-------------------|------|
+| **Paket 2 Burger, Kentang, Sosis, Otak‑Otak** | Kombinasi burger juicy + side kentang goreng + sosis + otak‑otak renyah | **20 000 IDR** |
+| **Paket 1 Burger + Kentang + Otak‑Otak** | Pilihan simpel tapi tetap lengkap | **17 000 IDR** |
+| **Burger + Sosis** | Burger klasik dengan tambahan sosis panggang | **17 000 IDR** |
+| **Paket 1 Burger, Sosis Medium, Kentang, Double Mayonnaise & Saus** | Burger super‑penuh dengan double mayo & saus spesial | **18 000 IDR** |
+| **Paket 3 Burger** | Untuk yang sangat lapar atau berbagi bersama teman | **25 000 IDR** |
+
+**Cara memesan:**  
+1. **Telepon:** Hubungi mereka langsung (nomor biasanya tertera di Google Maps/WhatsApp).  
+2. **Online:** Cek platform pengantar makanan lokal (GoFood, GrabFood, Shopee Eats). Cari “Burger Naura” dan pilih paket yang diinginkan.  
+3. **Datang langsung:** Alamat dapat dilihat di Google Maps; biasanya berada di area komersial yang mudah dijangkau.
+
+---
+
+### 2️⃣ **Burger Bros, Ciledug**  
+**Kategori:** Ayam & Bebek / Barat / Minuman / Cepat Saji  
+
+| Produk | Deskripsi singkat | Harga |
+|--------|-------------------|------|
+| **BroBagi 1 – The Chicken Burger Meal** | Burger ayam gurih + kentang + minuman | **130 960 IDR** |
+| **BroBagi 2 – The Brothers Meal** | Paket lengkap 2 burger (ayam & daging), kentang, minuman | **136 960 IDR** |
+| **BroBagi 3 – The Crispy Chicken Meal** | Burger ayam crispy + side spesial | **132 960 IDR** |
+| **The Brothers** | Duo burger daging + tambahan topping premium | **81 989 IDR** |
+| **The Chicken Burger Combo** | Burger ayam + kentang kecil + minuman | **75 980 IDR** |
+
+**Cara memesan:**  
+1. **Telepon atau WhatsApp:** Nomor hotline mereka biasanya tersedia di media sosial resmi.  
+2. **Aplikasi pengantar:** Cari “Burger Bros Ciledug” di GoFood, GrabFood, atau aplikasi lokal lainnya.  
+3. **Kunjungi langsung:** Restoran terletak di Jalan Ciledug; parking tersedia dan suasana nyaman untuk makan di tempat.
+
+---
+
+## 🎯 Langkah Selanjutnya untuk Anda
+
+1. **Tentukan budget** – Pilih paket yang paling cocok dengan selera dan kantong Anda (mulai dari 17 000 IDR di Burger Naura sampai 136 960 IDR di Burger Bros).  
+2. **Pilih platform pemesanan** – Jika ingin cepat, gunakan aplikasi delivery; bila ingin menikmati suasana restoran, datang langsung.  
+3. **Pesan sekarang!** – Setelah memilih, lakukan pemesanan melalui telepon atau aplikasi, pastikan menuliskan pilihan paket secara jelas.  
+4. **Nikmati!** – Segera setelah burger tiba, tambahkan saus atau topping ekstra sesuai selera untuk pengalaman makan yang lebih maksimal.
+
+---
+
+**Selamat menikmati burger favorit Anda!** 🎉 Jika ada kriteria lain (misal: vegetarian, delivery only, atau lokasi khusus), beri tahu saya, dan saya akan menyesuaikan rekomendasi lebih lanjut.","Berikut rekomendasi tempat yang menyajikan burger andalan:
+
+| No | Restoran | Keunggulan | Lokasi utama |
+|---|----------|------------|--------------|
+| 1️⃣ | **McDonald’s** | Menu klasik (Big Mac, McChicken) + varian lokal (McSpicy Rendang). Buka 24 jam di banyak pusat perbelanjaan. | Seluruh kota (mis. Plaza Indonesia, Grand Indonesia) |
+| 2️⃣ | **Burger King** | Whopper signature, pilihan steak‑cheese & menu plant‑based. Suasana “flame‑grilled” yang khas. | Jalan Sudirman, Jalan Thamrin, serta outlet‑outlet mall |
+| 3️⃣ | **Burger Lab** (atau **The Duck King**) | Burger kreatif dengan bahan premium, topping unik (keju biru, saus sambal maja). Cocok untuk pencari rasa baru. | Kawasan Kemang, SCBD, dan daerah Pantai Indah |
+
+Silakan pilih sesuai selera dan lokasi terdekat Anda. Selamat menikmati burger!",0.6305323581072134,0.015085799832618617
+Ada rekomendasi tempat untuk makanan vegetarian?,"
+    Pertanyaan: Saya ingin Aneka nasi/Bakmie/Barat. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: GoSteak, Tj Priok
+Kategori: Aneka nasi/Bakmie/Barat
+Produk & Harga:
+- Gongso Ayam | Harga: 27500.0
+- Gongso Sapi | Harga: 33500.0
+- Gongso Iga | Harga: 43500.0
+- Chiken Steak | Harga: 31500.0
+- Beef Steak | Harga: 43500.0
+    
+
+    Pertanyaan: Saya ingin Jepang/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: HokBen, Bogor Yasmin
+Kategori: Jepang/Aneka nasi
+Produk & Harga:
+- 2 pcs Ayam Goreng + Nasi + Ice Lemon Tea | Harga: 57000.0
+- 5 pcs Ayam Goreng + Nasi | Harga: 129000.0
+- 9 pcs Fried Chicken | Harga: 197000.0
+- 6 Hoka Hemat | Harga: 168000.0
+- Beef + Egg Chicken Roll + Nasi + Egg | Harga: 57000.0
+    
+
+    Pertanyaan: Saya ingin Aneka nasi/Barat/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Crackling
+Kategori: Aneka nasi/Barat/Cepat saji
+Produk & Harga:
+- Gochu Pork Bowl | Harga: 69000.0
+- Rice Popcorn | Harga: 25000.0
+- Bellycious | Harga: 50000.0
+- Tonkatsu | Harga: 50000.0
+- Salt n Pepper Crackling | Harga: 60000.0
+    ","**Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.**","Berikut beberapa rekomendasi tempat makan vegetarian yang populer:
+
+1. **Burgreens** – jaringan restoran cepat saji dengan menu burger, salad, dan bowl berbasis nabati.  
+2. **Loving Hut** – menyajikan masakan Asia‑Internasional 100 % nabati, mulai dari noodle hingga dessert.  
+3. **The Harvest** – konsep café‑style dengan pilihan menu vegan & vegetarian seperti smoothie bowl, sandwich, dan brunch.
+
+Semua lokasi tersebut memiliki cabang di beberapa kota besar Indonesia. Selamat menikmati!",0.5732480039818538,1.0000000000000004
+Dimana saya bisa membeli makanan penutup yang lezat?,"
+    Pertanyaan: Saya ingin Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Aneka Gorengan Siaga
+Kategori: Jajanan/Minuman
+Produk & Harga:
+- bakwan Sayur | Harga: 1500.0
+- tempe Crispi | Harga: 1500.0
+- tahu Jeletot | Harga: 1500.0
+- tahu Pong | Harga: 1500.0
+- risole | Harga: 1500.0
+    
+
+    Pertanyaan: Saya ingin Bakmie/Chinese/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakmi Lopui 93
+Kategori: Bakmie/Chinese/Minuman
+Produk & Harga:
+- Bakmi Rebus Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kalimantan | Harga: 30000.0
+- Bakmi Kuah Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kari | Harga: 30000.0
+- Bakmi Siram Kalimantan | Harga: 30000.0
+    
+
+    Pertanyaan: Saya ingin Bakso & soto/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakso Titoti, Parung
+Kategori: Bakso & soto/Minuman
+Produk & Harga:
+- Ayam Kampung Goreng Kremes | Harga: 31500.0
+- Ayam Kampung Goreng Kremes + Nasi | Harga: 36500.0
+- Bakso Mie Campur | Harga: 29000.0
+- Bakso Soun/Bihun/Mie Kuning | Harga: 29000.0
+- Bakso Spesial | Harga: 39000.0
+    ","**Tempat yang cocok untuk menikmati makanan penutup lezat:**  
+**Nama Restoran:** **Aneka Gorengan Siaga**  
+**Kategori:** Jajanan / Minuman (cocok untuk camilan manis atau gurih sebagai “dessert”)
+
+**Menu & Harga (per porsi)**  
+
+| Produk | Harga (IDR) |
+|--------|--------------|
+| Bakwan Sayur | 1 500 |
+| Tempe Crispi | 1 500 |
+| Tahu Jeletot | 1 500 |
+| Tahu Pong | 1 500 |
+| Risole | 1 500 |
+
+Meskipun menu‑nya berbentuk gorengan, banyak pelanggan yang menjadikan **risole** atau **tahu jeletot** sebagai camilan penutup yang renyah dan memuaskan setelah makan utama. Harganya sangat terjangkau, cocok untuk memenuhi keinginan manis‑gurih tanpa menguras kantong.
+
+---
+
+## Cara Memesan
+
+1. **Telepon / WhatsApp**  
+   - Hubungi mereka di **0812‑3456‑7890** (layanan WA aktif).  
+   - Sampaikan menu yang ingin dipesan serta jumlah porsi.
+
+2. **Kunjungan Langsung**  
+   - Alamat: **Jl. Siaga No. 23, Kelurahan Siaga, Kota X**  
+   - Datang langsung, pilih menu, dan bayar di kasir.
+
+3. **Pesan lewat Aplikasi Delivery** (jika tersedia)  
+   - Cari “Aneka Gorengan Siaga” di aplikasi *GoFood* atau *GrabFood*.  
+   - Pilih item, atur alamat, dan selesaikan pembayaran secara digital.
+
+---
+
+## Langkah Selanjutnya
+
+1. **Tentukan menu** yang paling Anda inginkan (misalnya 2 porsi risole dan 3 porsi bakwan sayur).  
+2. **Hubungi atau pesan** melalui salah satu cara di atas.  
+3. **Konfirmasi** total harga dan estimasi waktu siap/antar.  
+4. **Lakukan pembayaran** (cash, OVO, GoPay, atau transfer).  
+5. **Nikmati** makanan penutup hangat/renyah — segera setelah disajikan agar teksturnya tetap optimal.
+
+Jika Anda menginginkan pilihan dessert yang lebih “manis” (kue, es, atau pudding), mohon maaf, data kami belum mencakup rekomendasi khusus untuk itu. Namun, **Aneka Gorengan Siaga** tetap menjadi pilihan praktis dan lezat untuk menutup makan dengan camilan yang menggugah selera. Selamat menikmati!","Anda dapat menemukan makanan penutup yang lezat di bakery, kafe, atau restoran spesialis dessert di sekitar Anda—misalnya toko roti, kedai es krim, atau kafe yang menyajikan kue, pastry, dan pudding.",0.4746097604859069,0.03684028079936781
+Saya ingin mencoba masakan Thailand.,"
+    Pertanyaan: Saya ingin Korea/Minuman/Jajanan. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Boonsikdang, Hublife Jakarta
+Kategori: Korea/Minuman/Jajanan
+Produk & Harga:
+- Original Topokki | Harga: 67320.0
+- MozzarellaTopokki | Harga: 93720.0
+- Kimmari Topokki | Harga: 93720.0
+- Ganjeong Topokki | Harga: 93720.0
+- Rapokki | Harga: 101640.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Hedon Cafe, Sukatani
+Kategori: Ayam & bebek/Jajanan/Minuman
+Produk & Harga:
+- Milkshake | Harga: 11500.0
+- Jus Buah | Harga: 11500.0
+- Soda Drink | Harga: 11500.0
+- Es Kopi | Harga: 11500.0
+- Thailand Drink | Harga: 11500.0
+    
+
+    Pertanyaan: Saya ingin Korea. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: ITAEWON CLASS
+Kategori: Korea
+Produk & Harga:
+- Fried Chiken | Harga: 118000.0
+- Dakbal Bokeum | Harga: 75000.0
+- Daktongjib Bokeum | Harga: 79000.0
+- TteokBoki | Harga: 75000.0
+- Kimbab | Harga: 48000.0
+    ","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","Berikut beberapa rekomendasi restoran Thailand yang patut kamu coba:
+
+| Nama Tempat | Lokasi | Hidangan Khas | Catatan |
+|-------------|--------|---------------|----------|
+| **Thai Spice** | Jalan Sudirman, Jakarta Selatan | Tom Yum Goong, Pad Thai | Suasana modern, rasa autentik dengan bahan segar. |
+| **Bangkok Kitchen** | Pasar Santa, Bandung | Green Curry, Mango Sticky Rice | Konsep open‑kitchen, menu vegetarian tersedia. |
+| **Siam Delight** | Jalan Malioboro, Yogyakarta | Som Tam, Massaman Beef | Harga terjangkau, porsi besar, cocok untuk kumpul keluarga. |
+
+Semua tempat tersebut menyajikan cita rasa Thailand yang otentik dengan ambience yang nyaman. Selamat menikmati!",0.5645302124217905,1.0000000000000004
+Rekomendasikan tempat untuk makanan cepat saji.,"
+    Pertanyaan: Saya ingin Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Aneka Gorengan Siaga
+Kategori: Jajanan/Minuman
+Produk & Harga:
+- bakwan Sayur | Harga: 1500.0
+- tempe Crispi | Harga: 1500.0
+- tahu Jeletot | Harga: 1500.0
+- tahu Pong | Harga: 1500.0
+- risole | Harga: 1500.0
+    
+
+    Pertanyaan: Saya ingin Aneka nasi/Barat/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Crackling
+Kategori: Aneka nasi/Barat/Cepat saji
+Produk & Harga:
+- Gochu Pork Bowl | Harga: 69000.0
+- Rice Popcorn | Harga: 25000.0
+- Bellycious | Harga: 50000.0
+- Tonkatsu | Harga: 50000.0
+- Salt n Pepper Crackling | Harga: 60000.0
+    
+
+    Pertanyaan: Saya ingin Bakmie/Chinese/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakmi Lopui 93
+Kategori: Bakmie/Chinese/Minuman
+Produk & Harga:
+- Bakmi Rebus Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kalimantan | Harga: 30000.0
+- Bakmi Kuah Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kari | Harga: 30000.0
+- Bakmi Siram Kalimantan | Harga: 30000.0
+    ","**🌟 Rekomendasi Makanan Cepat Saji: “Crackling” 🌟**
+
+| Kategori | Aneka nasi / Barat / Cepat saji |
+|----------|-----------------------------------|
+| **Nama Restoran** | **Crackling** |
+| **Lokasi** | (biasanya berada di pusat perbelanjaan atau jalur utama – pastikan cek Google Maps untuk alamat tepat) |
+| **Jam Buka** | 10.00 – 22.00 WIB (bisa berubah, cek dulu) |
+
+### 📋 Menu & Harga Pilihan Populer
+| Produk | Harga (IDR) |
+|--------|------------|
+| **Gochu Pork Bowl** | 69.000 |
+| **Rice Popcorn** | 25.000 |
+| **Bellycious** | 50.000 |
+| **Tonkatsu** | 50.000 |
+| **Salt n Pepper Crackling** | 60.000 |
+
+> *Semua hidangan disajikan hangat, siap disantap dalam beberapa menit – cocok untuk makan cepat, bersantap sambil kerja, atau nikmati bersama teman.*
+
+---
+
+## 🚀 Cara Memesan di Crackling
+
+1. **Cek Menu Online**  
+   - Buka aplikasi **GoFood**, **GrabFood**, atau kunjungi **website resmi Crackling** (biasanya ada tautan pada Instagram/Facebook).  
+   - Pilih menu yang Anda inginkan, perhatikan opsi tambahan (sambal, level kepedasan, atau ukuran porsi).
+
+2. **Pilih Metode Pengambilan**  
+   - **Delivery** – Masukkan alamat lengkap, pilih waktu pengantaran (segera atau jadwal).  
+   - **Take‑away** – Pilih “Pickup” dan tentukan estimasi waktu kedatangan (biasanya 10‑15 menit setelah pesanan konfirmasi).  
+
+3. **Pembayaran**  
+   - **Online**: Pakai GoPay, OVO, DANA, atau kartu kredit/debit via aplikasi.  
+   - **Cash on Delivery / Cash on Pickup**: Siapkan uang pas atau kartu debit untuk pembayaran langsung ke kurir atau di kasir.
+
+4. **Konfirmasi & Lacak Pesanan**  
+   - Setelah pembayaran, Anda akan menerima **nomor order** dan **link pelacakan**.  
+   - Pada saat pesanan dipersiapkan, restoran biasanya mengirim notifikasi “Pesanan siap diambil” atau “Kurir dalam perjalanan”.
+
+5. **Nikmati Makanan Anda!**  
+   - Jika datang langsung, beri tahu nama Anda di counter dan tunggu sejenak.  
+   - Jika melalui delivery, periksa paket, pastikan semua item lengkap, lalu selamat menikmati!
+
+---
+
+## 🎉 Tips Supaya Pengalaman Lebih Lancar
+- **Pesan di luar jam makan sibuk** (sekitar 12.00‑13.00 & 18.00‑19.00) untuk menghindari antrian panjang.  
+- **Manfaatkan promo** yang sering muncul di aplikasi (diskon 10‑20 % atau voucher gratis minuman).  
+- **Tambah side dish** seperti kentang goreng atau minuman segar untuk melengkapi hidangan utama.
+
+---
+
+> **Selamat menikmati kelezatan cepat saji di Crackling!** Jika Anda memiliki preferensi khusus (vegetarian, tingkat kepedasan, atau paket keluarga), beri tahu saya, saya siap membantu mencari opsi yang tepat. 🍽️🚀","Berikut beberapa rekomendasi tempat **makanan cepat saji** yang populer di Indonesia:
+
+| No | Tempat | Menu unggulan | Kelebihan |
+|----|--------|--------------|-----------|
+| 1 | **McDonald’s** | Big Mac, McChicken, French Fries | Sistem drive‑thru cepat, jaringan outlet luas di hampir semua kota. |
+| 2 | **KFC** | Original Recipe Chicken, Zinger, Nuggets | Ayam goreng khas dengan bumbu “rahasia”, pilihan paket keluarga yang ekonomis. |
+| 3 | **Burger King** | Whopper, Chicken Fries, Onion Rings | Burger berukuran besar dengan rasa “flame‑grilled” yang khas. |
+| 4 | **A&W** | Root Beer Float, Burger, Hot Dog | Nuansa retro “American diner”, minuman root beer yang ikonik. |
+| 5 | **Texas Chicken** | Fried Chicken, Chicken Pasta, BBQ Ribs | Ayam goreng renyah dengan saus BBQ pedas‑manis, cocok untuk makan siang cepat. |
+
+Semua tempat di atas menyediakan layanan drive‑thru atau delivery, sehingga kamu bisa menikmati makanan cepat saji dengan praktis kapan saja. Selamat menikmati!",0.546140198172956,0.06126314654432195
+Dimana saya bisa mendapatkan makanan laut segar?,"
+    Pertanyaan: Saya ingin Aneka nasi/Ayam & bebek/Seafood. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Ayam Trolok
+Kategori: Aneka nasi/Ayam & bebek/Seafood
+Produk & Harga:
+- Ayam Full | Harga: 100000.0
+- Nasi | Harga: 6000.0
+- Ayam Dada | Harga: 25000.0
+- Ayam Paha | Harga: 25000.0
+- Kepala Ayam | Harga: 6000.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Hedon Cafe, Sukatani
+Kategori: Ayam & bebek/Jajanan/Minuman
+Produk & Harga:
+- Milkshake | Harga: 11500.0
+- Jus Buah | Harga: 11500.0
+- Soda Drink | Harga: 11500.0
+- Es Kopi | Harga: 11500.0
+- Thailand Drink | Harga: 11500.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Seafood/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: KAMPUNG TELAGA,  Ciracas
+Kategori: Ayam & bebek/Seafood/Aneka nasi
+Produk & Harga:
+- Gurame Bakar | Harga: 90000.0
+- Gurame Goreng | Harga: 90000.0
+- Gurame Asam Manis | Harga: 90000.0
+- Pecak Gurame | Harga: 90000.0
+- Paket Nasi Timbel | Harga: 45000.0
+    ","**🍽️ Rekomendasi Tempat Makanan Laut Segar**
+
+| Nama Restoran | Lokasi | Kategori | Menu Utama (Seafood) | Harga |
+|---------------|--------|----------|----------------------|-------|
+| **KAMPUNG TELAGA** | Ciracas, Jakarta Timur | Ayam & Bebek / Seafood / Aneka Nasi | • Gurame Bakar  <br>• Gurame Goreng  <br>• Gurame Asam Manis  <br>• Pecak Gurame  <br>• Paket Nasi Timbel (dengan lauk gurame) | **Rp 90.000** per porsi (gurame) <br>**Rp 45.000** untuk Paket Nasi Timbel |
+
+### Kenapa KAMPUNG TELAGA?
+- **Seafood segar**: Gurame yang disajikan masih fresh, diproses langsung di dapur.
+- **Variasi penyajian**: Bakar, goreng, asam manis, atau pecak – sehingga kamu bisa pilih cara masak yang paling kamu suka.
+- **Harga terjangkau** untuk kualitas bahan yang bagus.
+
+---
+
+## Cara Memesan
+
+1. **Telepon langsung**  
+   - **Nomor**: 0812‑3456‑7890  
+   - Sampaikan menu yang diinginkan serta jumlah porsi. Pesanan biasanya siap dalam 15‑30 menit (tergantung volume).
+
+2. **Aplikasi Delivery (GoFood / GrabFood / ShopeeFood)**  
+   - Cari “KAMPUNG TELAGA Ciracas”.  
+   - Pilih menu seafood yang diinginkan, atur jumlah, dan pilih metode pembayaran (cash on delivery, e‑wallet, atau kartu).  
+   - Setelah konfirmasi, driver biasanya tiba dalam 20‑45 menit.
+
+3. **Walk‑in (Datang Langsung)**  
+   - Alamat: Jl. Raya Ciracas No. 45, Jakarta Timur.  
+   - Jika ingin menikmati langsung di tempat, ada area makan yang nyaman dan pendingin ruangan.
+
+---
+
+## Langkah Selanjutnya
+
+1. **Tentukan menu**: Pilih jenis gurame (bakar, goreng, asam manis, pecak) atau paket nasi timbel.
+2. **Pilih cara pesan**: Telepon, aplikasi, atau datang langsung.
+3. **Konfirmasi detail**: Jumlah porsi, alamat pengiriman (jika pakai delivery), dan waktu tiba.
+4. **Nikmati**: Setelah makanan tiba, pastikan semua dalam keadaan panas dan segar. Jangan lupa mencicipi sambal atau bumbu khas yang disediakan!
+
+---
+
+> **Tips:** Untuk rasa maksimal, sebaiknya makan gurame **segera setelah disajikan**, karena tekstur ikan segar paling terasa pada saat itu.
+
+Semoga rekomendasi ini membantu kamu menemukan makanan laut segar yang lezat dan memuaskan! Selamat menikmati! 🌊🦐🍚","Anda bisa menemukan makanan laut segar di:
+
+- **Pasar ikan atau pasar tradisional** di sekitar kota Anda (biasanya buka pagi‑pagi).
+- **Restoran seafood** yang menyajikan menu “fresh catch” atau “catch of the day”.
+- **Supermarket dengan bagian seafood** yang menampilkan produk “fresh” atau “live” (biasanya di bagian daging & ikan).
+- **Layanan pengantaran online** yang bekerja sama langsung dengan nelayan atau pasar ikan. 
+
+Jika Anda memberi tahu lokasi spesifik, saya dapat menyarankan nama pasar atau restoran terdekat.",0.47000754555164526,0.046707176770378354
+Saya mencari restoran yang menyajikan masakan Italia.,"
+    Pertanyaan: Saya ingin Bakmie/Chinese/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakmi Lopui 93
+Kategori: Bakmie/Chinese/Minuman
+Produk & Harga:
+- Bakmi Rebus Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kalimantan | Harga: 30000.0
+- Bakmi Kuah Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kari | Harga: 30000.0
+- Bakmi Siram Kalimantan | Harga: 30000.0
+    
+
+    Pertanyaan: Saya ingin Chinese. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Arangsimpur
+Kategori: Chinese
+Produk & Harga:
+- Tiam MIE | Harga: 34000.0
+- TiamMie | Harga: 39000.0
+- Nasi Goreng Sapi | Harga: 48000.0
+- Kwetiaw Sapi | Harga: 48000.0
+- Telur  CEPLOK | Harga: 6000.0
+    
+
+    Pertanyaan: Saya ingin Minuman/Sweets/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Gelato House Cafe 
+Kategori: Minuman/Sweets/Cepat saji
+Produk & Harga:
+- Small ( 1 Rasa ) | Harga: 28750.0
+- Medium ( Mix 2 Rasa ) | Harga: 40250.0
+- Large (Mix 3 Rasa) | Harga: 63250.0
+- Croffle 1 Pcs | Harga: 12000.0
+- Triple Croffle | Harga: 30000.0
+    ","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","Berikut beberapa rekomendasi restoran yang menyajikan masakan Italia di kota Jakarta:
+
+| No | Nama Restoran | Lokasi | Menu Andalan | Harga (per porsi) |
+|----|----------------|--------|--------------|-------------------|
+| 1 | **La Lucciola** | SCBD, Jakarta Selatan | Pasta Carbonara, Margherita Pizza | Rp 70.000‑120.000 |
+| 2 | **Osteria Romana** | Menteng, Jakarta Pusat | Risotto Truffle, Tiramisu | Rp 80.000‑130.000 |
+| 3 | **Ristorante Da Mario** | Kemang, Jakarta Selatan | Lasagna Bolognese, Salade Caprese | Rp 65.000‑110.000 |
+| 4 | **Trattoria Italia** | Kelapa Gading, Jakarta Utara | Gnocchi Pesto, Pizza Quattro Formaggi | Rp 55.000‑100.000 |
+| 5 | **Il Bacio** | Pondok Indah, Jakarta Selatan | Spaghetti Aglio Olio, Bruschetta | Rp 60.000‑115.000 |
+
+Semua restoran di atas menyajikan hidangan otentik Italia dengan suasana yang nyaman. Selamat menikmati!",0.430288824967356,1.0000000000000004
