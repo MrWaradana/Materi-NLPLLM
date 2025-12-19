@@ -11,7 +11,7 @@ notebook_path = "peft-food-recommendation.ipynb"
 code_install = """# 1. Install once per environment
 # Pin versions to ensure compatibility and avoid 'modeling_layers' error
 %pip install -q torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
-%pip install -q transformers==4.46.0 peft==0.13.2 datasets==3.1.0 accelerate==1.1.0 pandas
+%pip install -q transformers==4.46.0 peft==0.13.2 datasets==3.1.0 accelerate==1.1.0 pandas matplotlib
 """
 
 
@@ -157,21 +157,38 @@ trainer = Trainer(
 trainer.train()
 """
 
+code_training_report = """# 7. Training Report
+# Create a DataFrame from the training logs
+history = pd.DataFrame(trainer.state.log_history)
+print("Training History:")
+print(history[['step', 'loss']].dropna())
 
-code_save = """# 7. Save adapters and tokenizer
+# Plotting if matplotlib is available
+try:
+    import matplotlib.pyplot as plt
+    plt.figure(figsize=(10, 5))
+    plt.plot(history['step'], history['loss'], label='Training Loss')
+    plt.xlabel('Step')
+    plt.ylabel('Loss')
+    plt.title('Training Loss Curve')
+    plt.legend()
+    plt.show()
+except Exception as e:
+    print(f"Skipping plot: {e}")
+"""
+
+code_save = """# 8. Save adapters and tokenizer
 model.save_pretrained(OUTPUT_DIR)
 tokenizer.save_pretrained(OUTPUT_DIR)
 
 print("LoRA adapters saved to", OUTPUT_DIR)
 """
 
-code_inference = """# 8. Inference
+code_inference = """# 9. Inference
 from peft import PeftModel
 
 print("Loading model for inference...")
 # Reload base model to ensure clean state (optional, but good practice)
-# In a real Interactive session, you can just use 'model' from training, 
-# but here we demonstrate loading the saved adapter.
 base_model = AutoModelForCausalLM.from_pretrained(
     MODEL_ID,
     device_map=device,
@@ -190,6 +207,35 @@ print(f"Generating recommendation for {test_category}...")
 outputs = model_to_test.generate(**inputs, max_new_tokens=100)
 print("Result:")
 print(tokenizer.decode(outputs[0], skip_special_tokens=True))
+"""
+
+code_evaluation = """# 10. Evaluation (Qualitative)
+# Loop through multiple categories to see how well the model generalizes
+test_samples = [
+    "Minuman segar", 
+    "Sate", 
+    "Martabak",
+    "Japanese Food"
+]
+
+print("--- Qualitative Evaluation ---")
+for category in test_samples:
+    prompt = f"### Instruksi:\\nBeri rekomendasi makanan kategori {category}.\\n\\n### Jawaban:\\n"
+    inputs = tokenizer(prompt, return_tensors="pt").to(device)
+    # Generate with sampling for variety
+    outputs = model_to_test.generate(
+        **inputs, 
+        max_new_tokens=100, 
+        do_sample=True, 
+        temperature=0.7,
+        top_k=50,
+        top_p=0.95
+    )
+    response = tokenizer.decode(outputs[0], skip_special_tokens=True)
+    
+    print(f"\\n[Input Category]: {category}")
+    print(f"[Model Output]:\\n{response}")
+    print("-" * 50)
 """
 
 # Construct the notebook cells
@@ -212,11 +258,17 @@ cells = [
     {"cell_type": "markdown", "metadata": {}, "source": ["# 6. Training"]},
     {"cell_type": "code", "execution_count": None, "metadata": {}, "outputs": [], "source": code_train.splitlines(keepends=True)},
     
-    {"cell_type": "markdown", "metadata": {}, "source": ["# 7. Save"]},
+    {"cell_type": "markdown", "metadata": {}, "source": ["# 7. Training Report"]},
+    {"cell_type": "code", "execution_count": None, "metadata": {}, "outputs": [], "source": code_training_report.splitlines(keepends=True)},
+    
+    {"cell_type": "markdown", "metadata": {}, "source": ["# 8. Save"]},
     {"cell_type": "code", "execution_count": None, "metadata": {}, "outputs": [], "source": code_save.splitlines(keepends=True)},
 
-    {"cell_type": "markdown", "metadata": {}, "source": ["# 8. Inference"]},
+    {"cell_type": "markdown", "metadata": {}, "source": ["# 9. Inference"]},
     {"cell_type": "code", "execution_count": None, "metadata": {}, "outputs": [], "source": code_inference.splitlines(keepends=True)},
+    
+    {"cell_type": "markdown", "metadata": {}, "source": ["# 10. Evaluation"]},
+    {"cell_type": "code", "execution_count": None, "metadata": {}, "outputs": [], "source": code_evaluation.splitlines(keepends=True)},
 ]
 
 
