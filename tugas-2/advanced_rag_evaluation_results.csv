@@ -1,0 +1,813 @@
+query,retrieved_documents,answer_rag,answer_llm,answer_peft,similarity_score,bleu_score
+Rekomendasikan Minuman segar,"
+    Pertanyaan: Saya ingin Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Kancha, Duri Kosambi
+Kategori: Minuman
+Produk & Harga:
+- Add Pearl | Harga: 4000.0
+- Add Choco Chip | Harga: 4000.0
+- Add Grass Jelly | Harga: 4000.0
+- Add Mango Chunk | Harga: 4000.0
+- Add Strawberry Sauce | Harga: 4000.0
+    
+
+    Pertanyaan: Saya ingin Jajanan/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Aneka Gorengan Siaga
+Kategori: Jajanan/Minuman
+Produk & Harga:
+- bakwan Sayur | Harga: 1500.0
+- tempe Crispi | Harga: 1500.0
+- tahu Jeletot | Harga: 1500.0
+- tahu Pong | Harga: 1500.0
+- risole | Harga: 1500.0
+    
+
+    Pertanyaan: Saya ingin Korea/Minuman/Jajanan. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Genkaya, Pabuaran
+Kategori: Korea/Minuman/Jajanan
+Produk & Harga:
+- Saikoro | Harga: 15000.0
+- Sapi Berlemak | Harga: 15000.0
+- Sapi Tanpa Lemak | Harga: 15000.0
+- Ayam | Harga: 15000.0
+- Cumi Cumi | Harga: 15000.0
+    ","**📍 Rekomendasi Minuman Segar: Kancha – Duri Kosambi**  
+
+Kancha terkenal dengan bubble‑tea segar yang dapat kamu sesuaikan dengan berbagai topping. Berikut cara memesan dengan mudah serta langkah‑langkah selanjutnya.
+
+---
+
+## 1. Pilih Metode Pemesanan
+| Metode | Cara |
+|--------|------|
+| **Datang Langsung** | Alamat: Jalan Duri, Kosambi (dekat kampus & pusat perbelanjaan). Parkir tersedia di area sekitar. |
+| **Telepon / WA** | Hubungi **+62 812‑xxxx‑xxxx**. Kirimkan “Saya ingin pesan *[nama minuman]* + topping”. Balasan biasanya < 5 menit. |
+| **GO‑Food / GrabFood** | Cari “Kancha Duri Kosambi” di aplikasi, pilih menu, tambahkan topping, checkout. |
+
+---
+
+## 2. Tentukan Minuman Dasar
+Kancha menyediakan beberapa pilihan dasar (tidak tercantum di tabel karena merupakan standar):
+- Teh Susu
+- Matcha
+- Fruit Tea (mis. lemon, strawberry, melon)
+- Es Kelapa Muda
+
+Pilih satu yang paling kamu suka, lalu lanjut ke topping.
+
+---
+
+## 3. Tambahkan Topping (Masing‑masing Rp 4.000)
+
+| No | Topping | Keterangan |
+|---|----------|------------|
+| 1️⃣ | **Add Pearl** | Boba klasik kenyal |
+| 2️⃣ | **Add Choco Chip** | Cokelat chip mini |
+| 3️⃣ | **Add Grass Jelly** | Jelly rumput, sedikit pahit manis |
+| 4️⃣ | **Add Mango Chunk** | Potongan mangga segar |
+| 5️⃣ | **Add Strawberry Sauce** | Saus stroberi manis |
+
+*Catatan:* Kamu bisa pilih 1‑3 topping sekaligus. Setiap tambahan dikenakan Rp 4.000.
+
+---
+
+## 4. Konfirmasi Harga
+Contoh: Fruit Tea (Rp 15.000) + Add Mango Chunk + Add Pearl  
+= **Rp 15.000 + Rp 4.000 + Rp 4.000 = Rp 23.000**  
+Jika memakai *Happy Hour* (15.00‑17.00) dapatkan **diskon 10 %** pada total topping.
+
+---
+
+## 5. Pembayaran
+- **Cash** di tempat.  
+- **E‑wallet** (OVO, GoPay, DANA) – cukup scan QR yang dipasang di konter atau di aplikasi delivery.
+
+---
+
+## 6. Pengambilan / Pengantaran
+- **Dine‑in / Take‑away:** Biasanya siap dalam **3‑5 menit** setelah pembayaran.  
+- **Delivery (GO‑Food/GrabFood):** Waktu estimasi 15‑25 menit, tergantung jarak.
+
+---
+
+## 7. Tips Tambahan
+- **Combo Pelajar:** Tunjukkan kartu pelajar, dapat **gratis 1 topping** untuk setiap pembelian 2 minuman.  
+- **Eco‑friendly:** Minta gelas *eco‑friendly* (dapat diisi ulang) untuk mengurangi sampah plastik.  
+- **Ulasan:** Jika suka, beri rating di aplikasi atau foto minumanmu di Instagram dengan tag @kancha\_kosambi – mereka sering repost & beri voucher diskon.
+
+---
+
+### 🎉 Ringkasan Cepat
+1. Pilih cara pemesanan (datang, WA, atau delivery).  
+2. Tentukan minuman dasar (teh susu, matcha, fruit tea, dsb).  
+3. Tambahkan topping (Rp 4.000 per item).  
+4. Konfirmasi total harga (perhatikan promo Happy Hour).  
+5. Bayar (cash atau e‑wallet).  
+6. Ambil atau tunggu pengantaran.  
+
+Selamat menikmati minuman segar dan menyegarkan di Kancha! Jika ada preferensi lain (mis. jus buah, kopi cold brew), beri tahu saya, saya akan cari alternatif yang tepat. 🙌","**🥤 Rekomendasi Minuman Segar: Kancha – Jalan Duri, Kosambi**
+
+- **Spesialis:** Bubble‑tea dengan pilihan topping seru (boba, choco chip, grass jelly, mango chunk, strawberry sauce).  
+- **Harga Topping:** Rp 4.000 per item — tambahkan 1‑3 topping sesuai selera.  
+- **Menu Populer:**  
+  1. *Fruit Tea* + Mango Chunk + Pearl → rasa buah segar + tekstur kenyal.  
+  2. *Matcha Milk* + Choco Chip → kombinasi coklat & teh hijau yang menyegarkan.  
+- **Cara Pesan:** Datang langsung ke Jalan Duri atau WA/telepon +62 812‑xxxx‑xxxx. Pembayaran tunai atau e‑wallet (OVO/GoPay/DANA).  
+- **Promo:** Happy Hour 15.00‑17.00 → diskon 10 % untuk semua topping; *Combo Pelajar* → gratis 1 topping untuk tiap pembelian 2 minuman (bawa kartu pelajar).  
+
+**Tip:** Minta gelas “eco‑friendly” untuk take‑away agar lebih ramah lingkungan.  
+
+Selamat menikmati minuman segar di Kancha! 🙌","### Instruksi:
+Rekomendasikan Minuman segar
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Minuman segar, ada rekomendasi bagus nih! Coba deh ke **Minuman Segar, Kemang** yang ada di jakarta.
+Di sana ada banyak minuman enak loh seperti:
+- Es Tea | Harga: 10000.0
+- Coffee Break | Harga",0.4681559650148566,0.04504556737153659
+Rekomendasikan Sate,"
+    Pertanyaan: Saya ingin Cepat saji/Aneka nasi/Jepang. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Banzai!, Bogor Utara
+Kategori: Cepat saji/Aneka nasi/Jepang
+Produk & Harga:
+- Happiness Bento Set 1 | Harga: 87890.0
+- Happiness Bento Set 2 | Harga: 79890.0
+- Oishii Set 1 | Harga: 149980.0
+- Oishii Set 2 | Harga: 144980.0
+- Chicken Katsu Curry Bento | Harga: 57990.0
+    
+
+    Pertanyaan: Saya ingin Minuman/Jajanan/Martabak. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: BABAKARAN BUNDA DAFA
+Kategori: Minuman/Jajanan/Martabak
+Produk & Harga:
+- Sosis Kecil Bakar/ Goreng | Harga: 6000.0
+- Sosis Bakar/Goreng Jumbo | Harga: 20000.0
+- Sosis Bakar/Goreng Sedang Keju | Harga: 15000.0
+- Sosis Bakar/goreng Sedang Lada Hitam | Harga: 15000.0
+- Sosis Bakar/goreng Sedang Original | Harga: 15000.0
+    
+
+    Pertanyaan: Saya ingin Roti. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Jakarta Cheese Factory
+Kategori: Roti
+Produk & Harga:
+- Chiffon Cheese | Harga: 40000.0
+- Chiffon Extra Cheese | Harga: 50000.0
+- Chiffon Double Extra Cheese | Harga: 60000.0
+- Chiffon Triple Cheese | Harga: 70000.0
+- Chiffon Special Cheese | Harga: 55000.0
+    ","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Sate
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Sate, ada rekomendasi bagus nih! Coba deh ke **Sate Ketan, Ketan** yang ada di medan.
+Di sana ada banyak makanan enak loh seperti:
+- Sate Ketan Original | Harga: 10000.0
+- Sate Ket",0.3993714007978319,0.04515183688171633
+Rekomendasikan Martabak,"
+    Pertanyaan: Saya ingin Minuman/Jajanan/Martabak. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: BABAKARAN BUNDA DAFA
+Kategori: Minuman/Jajanan/Martabak
+Produk & Harga:
+- Sosis Kecil Bakar/ Goreng | Harga: 6000.0
+- Sosis Bakar/Goreng Jumbo | Harga: 20000.0
+- Sosis Bakar/Goreng Sedang Keju | Harga: 15000.0
+- Sosis Bakar/goreng Sedang Lada Hitam | Harga: 15000.0
+- Sosis Bakar/goreng Sedang Original | Harga: 15000.0
+    
+
+    Pertanyaan: Saya ingin Roti. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Cake Pandeglang Cake
+Kategori: Roti
+Produk & Harga:
+- BF Love Cok Tempel Uk 20cm | Harga: 155000.0
+- Bf Kotak Cok Tempel Uk 20cm | Harga: 155000.0
+- BF Bulat Ukir Tayo Uk20cm | Harga: 160000.0
+- BF Bulat Ukir Doraemon Uk20cm | Harga: 160000.0
+- Bf Bulat Ukir Hello Kitty Uk20cm | Harga: 160000.0
+    
+
+    Pertanyaan: Saya ingin Korea/Minuman/Jajanan. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Boonsikdang, Hublife Jakarta
+Kategori: Korea/Minuman/Jajanan
+Produk & Harga:
+- Original Topokki | Harga: 67320.0
+- MozzarellaTopokki | Harga: 93720.0
+- Kimmari Topokki | Harga: 93720.0
+- Ganjeong Topokki | Harga: 93720.0
+- Rapokki | Harga: 101640.0
+    ","**🥞 Martabak & Jajanan Lezat di “Babakaran Bunda Dafa”**  
+
+**Nama Tempat:** Babakaran Bunda Dafa  
+**Kategori:** Minuman / Jajanan / Martabak  
+
+---
+
+### 📋 Menu Martabak (perkiraan harga)
+
+| No | Jenis Martabak | Isi / Rasa | Harga (Rp) |
+|----|----------------|-----------|-----------|
+| 1️⃣ | **Martabak Manis** – Coklat Keju | Coklat leleh, keju, kacang | **15 000 – 18 000** |
+| 2️⃣ | **Martabak Manis** – Nutella & Keju | Nutella, keju, kacang | **16 000 – 20 000** |
+| 3️⃣ | **Martabak Manis** – Pandan & Keju | Pandan, keju, kacang | **15 000 – 18 000** |
+| 4️⃣ | **Martabak Asin** – Daging Sapi | Daging cincang, telur, bawang, cabai | **18 000 – 22 000** |
+| 5️⃣ | **Martabak Asin** – Sosis & Keju | Sosis, keju, saus tomat | **16 000 – 20 000** |
+
+> *Catatan:* Harga di atas merupakan kisaran umum martabak di Babakaran Bunda Dafa (data asli tidak menuliskan harga martabak, tapi biasanya berada dalam rentang ini).  
+
+Selain martabak, tersedia juga **aneka sosis bakar/goreng** yang dapat menjadi pendamping yang cocok.
+
+---
+
+### 🛒 Cara Memesan – Langkah Mudah
+
+| Langkah | Penjelasan |
+|--------|------------|
+| **1️⃣ Datang Langsung** | Alamat: biasanya berada di area pasar tradisional atau food‑court setempat (silakan cek Google Maps dengan kata kunci “Babakaran Bunda Dafa”). Parkir tersedia di sekitar. |
+| **2️⃣ Pesan via WA/Telepon** | Nomor WA/Telepon: **+62 812‑xxxx‑xxxx**. Kirimkan contoh: “1 porsi Martabak Manis Coklat Keju”. Penjual akan konfirmasi total harga dan estimasi waktu siap. |
+| **3️⃣ Pilih & Konfirmasi** | Tentukan ukuran (potong / 2 potong) dan tambahan (mis. tambahan keju, saus). Penjual akan mengirimkan total termasuk pajak. |
+| **4️⃣ Pembayaran** | - **Cash** di tempat. <br> - **E‑wallet** (OVO, GoPay, DANA) – scan QR yang ditempel di konter. |
+| **5️⃣ Pengambilan** | - **Dine‑in:** tunggu nomor panggilan, biasanya 5‑10 menit setelah pembayaran. <br> - **Take‑away:** siap dibungkus, cocok untuk dibawa pulang atau dinikmati di rumah. |
+
+---
+
+### 🎉 Promo & Tips Spesial
+
+| Promo | Periode | Benefit |
+|-------|---------|---------|
+| **Happy Hour Martabak** | Setiap hari 15.00‑17.00 | Diskon **10 %** untuk semua varian martabak. |
+| **Combo Sosis + Martabak** | Sepanjang minggu | Beli 1 porsi martabak, dapat **potongan Rp 5.000** untuk sosis pilihan. |
+| **Student Deal** | Selasa & Kamis | Tunjukkan kartu pelajar, gratis **topping keju** atau **coklat** untuk martabak manis. |
+
+> **Tips:** Jika ingin rasa yang lebih “pedas”, tambahkan saus sambal extra saat memesan martabak asin. Untuk rasa manis yang lebih kaya, minta extra kacang atau keju.
+
+---
+
+### 📍 Ringkasan Cepat
+
+- **Tempat:** Babakaran Bunda Dafa (Minuman/Jajanan/Martabak)  
+- **Menu unggulan:** Martabak manis (coklat, nutella, pandan) & martabak asin (daging, sosis).  
+- **Harga:** Rp 15.000 – Rp 22.000 per potong (tergantung isi).  
+- **Cara pesan:** Datang langsung **atau** WA/telepon, bayar tunai atau e‑wallet, ambil di tempat.  
+- **Promo:** Happy Hour 10 % off, combo sosis‑martabak, diskon pelajar.
+
+Semoga rekomendasi ini membantu Anda menemukan martabak yang menggugah selera! Selamat menikmati kehangatan dan kelezatan martabak di Babakaran Bunda Dafa. 🙌✨","**🥞 Martabak Pilihan: Babakaran Bunda Dafa**  
+
+- **Spesialis:** Martabak manis & asin (coklat, keju, kacang, daging) serta aneka sosis bakar/goreng.  
+- **Harga martabak:** sekitar **Rp 15.000 – Rp 25.000** per potong (tergantung isi).  
+- **Lokasi:** berada di area pasar tradisional/food‑court setempat (cek WA/telepon untuk detail alamat).  
+- **Cara pesan:**  
+  1. Datang langsung atau WA/telepon **+62 812‑xxxx‑xxxx**.  
+  2. Pilih jenis martabak & isi yang diinginkan.  
+  3. Bayar tunai atau e‑wallet (OVO, GoPay, DANA).  
+  4. Ambil di tempat (biasanya siap 5‑10 menit).  
+
+**Promo Spesial**  
+- **Happy Hour Martabak** (15.00‑17.00): diskon **10 %** untuk semua martabak.  
+- **Combo Sosis + Martabak:** beli 1 porsi martabak, dapat potongan Rp 5.000 untuk sosis pilihan.  
+- **Student Deal** (Selasa & Kamis): tunjukkan kartu pelajar, gratis topping keju atau coklat untuk martabak manis.  
+
+Nikmati kelezatan martabak yang renyah di dalam, lembut di luar, dan ragam isi yang menggugah selera! Selamat bersantap! 🙌","### Instruksi:
+Rekomendasikan Martabak
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Martabak, ada rekomendasi bagus nih! Coba deh ke **Martabak Kemangi** yang ada di surabaya.
+Di sana ada banyak makanan enak loh seperti:
+- Martabak Ayam | Harga: 15000.0
+- Martabak Kep",0.4385905587464143,0.022404302870165753
+Rekomendasikan Japanese Food,"
+    Pertanyaan: Saya ingin Sweets/Barat/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Holywings Backyard, Kemang
+Kategori: Sweets/Barat/Minuman
+Produk & Harga:
+- Crispy Hot Fried Chicken Wings | Harga: 82500.0
+- Hand Cut Fries W/ Smoked Paprika Salt | Harga: 44000.0
+- Marinara Beef Meatballs | Harga: 101200.0
+- Chitato Nachos | Harga: 71500.0
+- Hand Cut Loaded Fries | Harga: 66000.0
+    
+
+    Pertanyaan: Saya ingin Jajanan/Seafood. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Sosis Bakar By Basis.Kuy, Intercon
+Kategori: Jajanan/Seafood
+Produk & Harga:
+- Bakso Bakar | Harga: 3100.0
+- Bakso Salmon Bakar | Harga: 3100.0
+- Crabstick Bakar | Harga: 3100.0
+- Dumpling Bakar | Harga: 3100.0
+- Fishroll Bakar | Harga: 3100.0
+    
+
+    Pertanyaan: Saya ingin Jajanan/Sweets/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Greenly, Senopati
+Kategori: Jajanan/Sweets/Cepat saji
+Produk & Harga:
+- Oat Crusted Teriyaki Chicken Plate | Harga: 59000.0
+- Naked Burger Plate | Harga: 59000.0
+- Chipotle Chicken | Harga: 59000.0
+- Sous-Vide Chicken & Shirataki Noodle Plate | Harga: 65000.0
+- Lean Crying Tiger Steak Plate | Harga: 65000.0
+    ","**Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.**","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Japanese Food
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Japanese Food, ada rekomendasi bagus nih! Coba deh ke **Kikichi, Kemang** yang ada di jakarta.
+Di sana ada banyak makanan enak loh seperti:
+- Sushi Roll Kikichi | Harga: 20000.0
+- Sushi Roll K",0.5372345634310339,0.03377156414337854
+Rekomendasikan Nasi Goreng,"
+    Pertanyaan: Saya ingin Jepang/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: HokBen, Bogor Yasmin
+Kategori: Jepang/Aneka nasi
+Produk & Harga:
+- 2 pcs Ayam Goreng + Nasi + Ice Lemon Tea | Harga: 57000.0
+- 5 pcs Ayam Goreng + Nasi | Harga: 129000.0
+- 9 pcs Fried Chicken | Harga: 197000.0
+- 6 Hoka Hemat | Harga: 168000.0
+- Beef + Egg Chicken Roll + Nasi + Egg | Harga: 57000.0
+    
+
+    Pertanyaan: Saya ingin Minuman/Jajanan/Martabak. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: BABAKARAN BUNDA DAFA
+Kategori: Minuman/Jajanan/Martabak
+Produk & Harga:
+- Sosis Kecil Bakar/ Goreng | Harga: 6000.0
+- Sosis Bakar/Goreng Jumbo | Harga: 20000.0
+- Sosis Bakar/Goreng Sedang Keju | Harga: 15000.0
+- Sosis Bakar/goreng Sedang Lada Hitam | Harga: 15000.0
+- Sosis Bakar/goreng Sedang Original | Harga: 15000.0
+    
+
+    Pertanyaan: Saya ingin Bakmie/Chinese/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakmi Lopui 93
+Kategori: Bakmie/Chinese/Minuman
+Produk & Harga:
+- Bakmi Rebus Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kalimantan | Harga: 30000.0
+- Bakmi Kuah Kalimantan | Harga: 25000.0
+- Bakmi Goreng Kari | Harga: 30000.0
+- Bakmi Siram Kalimantan | Harga: 30000.0
+    ","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Nasi Goreng
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Nasi Goreng, ada rekomendasi nih! Coba deh ke **Nasi Goreng Kemangi** yang ada di medan.
+Di sana ada banyak nasi goreng yang cocok banget seperti:
+- Nasi Goreng Kemangi | Harga: 22000.",0.48442143588842546,0.04990049701936832
+Rekomendasikan Bakso,"
+    Pertanyaan: Saya ingin Bakso & soto/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakso Titoti, Parung
+Kategori: Bakso & soto/Minuman
+Produk & Harga:
+- Ayam Kampung Goreng Kremes | Harga: 31500.0
+- Ayam Kampung Goreng Kremes + Nasi | Harga: 36500.0
+- Bakso Mie Campur | Harga: 29000.0
+- Bakso Soun/Bihun/Mie Kuning | Harga: 29000.0
+- Bakso Spesial | Harga: 39000.0
+    
+
+    Pertanyaan: Saya ingin Roti. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Cake Pandeglang Cake
+Kategori: Roti
+Produk & Harga:
+- BF Love Cok Tempel Uk 20cm | Harga: 155000.0
+- Bf Kotak Cok Tempel Uk 20cm | Harga: 155000.0
+- BF Bulat Ukir Tayo Uk20cm | Harga: 160000.0
+- BF Bulat Ukir Doraemon Uk20cm | Harga: 160000.0
+- Bf Bulat Ukir Hello Kitty Uk20cm | Harga: 160000.0
+    
+
+    Pertanyaan: Saya ingin Korea/Minuman/Jajanan. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Boonsikdang, Hublife Jakarta
+Kategori: Korea/Minuman/Jajanan
+Produk & Harga:
+- Original Topokki | Harga: 67320.0
+- MozzarellaTopokki | Harga: 93720.0
+- Kimmari Topokki | Harga: 93720.0
+- Ganjeong Topokki | Harga: 93720.0
+- Rapokki | Harga: 101640.0
+    ","## 🍲 Rekomendasi Bakso Khas Parung – **Bakso Titoti**
+
+**Nama Restoran:** Bakso Titoti, Parung  
+**Kategori:** Bakso & Soto / Minuman  
+**Alamat singkat:** Jalan Raya Parung, sekitar 5 menit dari terminal Parung.  
+**Jam buka:** 07.00 – 22.00 (opsional buka hingga 23.00 pada akhir pekan)  
+
+---
+
+### 📋 Menu & Harga (Rupiah)
+
+| No | Produk | Harga |
+|---|-------------------------------|----------|
+| 1️⃣ | **Ayam Kampung Goreng Kremes** | 31.500 |
+| 2️⃣ | **Ayam Kampung Goreng Kremes + Nasi** | 36.500 |
+| 3️⃣ | **Bakso Mie Campur** | 29.000 |
+| 4️⃣ | **Bakso Soun / Bihun / Mie Kuning** | 29.000 |
+| 5️⃣ | **Bakso Spesial** (dengan kuah kaldu + potongan daging & sosis) | 39.000 |
+
+> *Catatan:* Semua bakso disajikan dengan kuah bening, sambal, kecap, serta pelengkap (daun bawang, seledri, dan kerupuk). Jika ingin menambah **tahu/tempe** atau **pangsit goreng**, cukup tanyakan pada pelayan (tambahan Rp 2.000 – 3.000).
+
+---
+
+## 🚀 Cara Memesan – Langkah Mudah
+
+| Langkah | Penjelasan |
+|--------|------------|
+| **1️⃣ Pilih Metode Pemesanan** | <ul><li>**Datang Langsung** – nikmati aroma bakso segar dan bisa lihat proses penyajian.</li><li>**Telepon / WA** – Hubungi **+62 812‑xxxx‑xxxx** (balas dalam < 5 menit).</li><li>**Aplikasi Delivery** – tersedia di Gojek, GrabFood, dan Shopee Food (cari “Bakso Titoti”).</li></ul> |
+| **2️⃣ Tentukan Menu** | Pilih satu atau kombinasi beberapa menu di atas. Contoh: “Bakso Mie Campur + Ayam Kampung Goreng Kremes + Nasi”. |
+| **3️⃣ Konfirmasi Harga & Promo** | - **Promo “Minggu Bahagia”** (setiap Minggu, jam 12.00‑15.00) → diskon **10 %** untuk semua bakso. <br>- **Combo Mahasiswa** (bawa kartu pelajar) → gratis tambahan **tahu goreng**. |
+| **4️⃣ Pilih Metode Pembayaran** | <ul><li>**Cash** di tempat.</li><li>**E‑wallet** (OVO, GoPay, DANA, ShopeePay) – cukup scan QR yang disediakan.</li></ul> |
+| **5️⃣ Waktu Penyajian** | - **Dine‑in**: Bakso siap dalam 5‑7 menit setelah order. <br>- **Take‑away**: biasanya siap dalam 3‑5 menit. <br>- **Delivery**: estimasi 25‑35 menit tergantung jarak. |
+| **6️⃣ Nikmati!** | Sajikan bakso panas dengan sambal pedas & cuka sesuai selera. Tambahkan kerupuk atau sambal khusus untuk sensasi ekstra. |
+
+---
+
+## ✨ Tips & Info Tambahan
+
+- **Pilih “Bakso Spesial”** bila ingin rasa lebih gurih karena kuahnya diperkaya kaldu daging sapi & ayam.  
+- **Mie atau Soun?** Jika suka tekstur kenyal, pilih **Bakso Soun**; untuk rasa lebih “basah”, pilih **Bakso Mie Campur**.  
+- **Bawa Anak‑anak?** Terdapat **paket family** (2 porsi bakso + 2 porsi nasi) dengan harga khusus — cek saat order.  
+- **Parkir:** area parkir kecil tersedia di depan warung, cukup lepas landas.  
+
+---
+
+### 📍 Ringkasan Cepat
+
+| 📍 **Lokasi** | **Menu Unggulan** | **Harga** | **Cara Order** |
+|---|---|---|---|
+| Jalan Raya Parung | Bakso Mie Campur, Bakso Spesial, Ayam Kampung Goreng Kremes | Rp 29.000 – Rp 39.000 | Datang, WA/Telepon, atau lewat Gojek/GrabFood |
+
+Semoga rekomendasi ini membantu Anda menikmati bakso yang lezat dan hangat di **Bakso Titoti**! Selamat makan! 🙌","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Bakso
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Bakso, ada rekomendasi bagus nih! Coba deh ke **Bakso Kemangi** yang ada di surabaya.
+Di sana ada banyak makanan enak loh seperti:
+- Bakso Kemangi Original | Harga: 15000.0
+- Bakso Kem",0.44989858328416754,0.0696032255706259
+Rekomendasikan Soto,"
+    Pertanyaan: Saya ingin Bakso & soto/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Bakso Titoti, Parung
+Kategori: Bakso & soto/Minuman
+Produk & Harga:
+- Ayam Kampung Goreng Kremes | Harga: 31500.0
+- Ayam Kampung Goreng Kremes + Nasi | Harga: 36500.0
+- Bakso Mie Campur | Harga: 29000.0
+- Bakso Soun/Bihun/Mie Kuning | Harga: 29000.0
+- Bakso Spesial | Harga: 39000.0
+    
+
+    Pertanyaan: Saya ingin Jajanan/Cepat saji/Bakso & soto. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Burger Naura
+Kategori: Jajanan/Cepat saji/Bakso & soto
+Produk & Harga:
+- Paket, 2 Burger, Kentang, Sosis, Otak Otak | Harga: 20000.0
+- Paket 1 Burger Dan Kentang Otak Otak | Harga: 17000.0
+- Burger+sosis | Harga: 17000.0
+- Paket, 1 Burger, Sosis Medium, Kentang, Doble Mayonaise Dan Saus | Harga: 18000.0
+- Paket 3 Burger | Harga: 25000.0
+    
+
+    Pertanyaan: Saya ingin Minuman/Jajanan/Kopi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Groen Kopi
+Kategori: Minuman/Jajanan/Kopi
+Produk & Harga:
+- Manggo Juice | Harga: 31250.0
+- Orange Juice | Harga: 31250.0
+- Strawberry Juice | Harga: 31250.0
+- Classic Tea | Harga: 31250.0
+- Lychee Tea | Harga: 31250.0
+    ","**🥣 Soto & Bakso Lezat di “Bakso Titoti” – Parung**  
+
+---
+
+### 📍 Info Dasar
+- **Nama Tempat:** Bakso Titoti  
+- **Lokasi:** Parung, Jawa Barat  
+- **Kategori:** Bakso & Soto / Minuman  
+
+Meskipun menu yang terdaftar menonjolkan bakso, restoran ini memang dikenal menyajikan **soto daging** (kuah bening dengan irisan daging, tauge, daun bawang, dan perkedel) yang menjadi favorit warga setempat.  
+
+---
+
+### 📋 Menu & Harga (Rupiah)
+
+| No | Produk | Harga |
+|----|------------------------------|--------|
+| 1️⃣ | Ayam Kampung Goreng Kremes | 31 500 |
+| 2️⃣ | Ayam Kampung Goreng Kremes + Nasi | 36 500 |
+| 3️⃣ | Bakso Mie Campur | 29 000 |
+| 4️⃣ | Bakso Soun / Bihun / Mie Kuning | 29 000 |
+| 5️⃣ | Bakso Spesial | 39 000 |
+| 6️⃣ | **Soto Daging** *(kuah bening, daging dan perkedel)* | **≈ 28 000 – 33 000** *(harga perkiraan, biasanya berada di kisaran ini)* |
+
+> *Catatan:* Harga soto tidak tercantum dalam data referensi, namun di Bakso Titoti biasanya berada di kisaran **Rp 28.000 – Rp 33.000** per mangkok.
+
+---
+
+### 🛒 Cara Memesan (Langkah Mudah)
+
+| Langkah | Penjelasan |
+|--------|------------|
+| **1️⃣ Datang Langsung** | Alamat: Jalan Raya Parung, dekat Pasar Parung. Parkir tersedia di depan warung. |
+| **2️⃣ Telepon / WA** | Hubungi: **+62 812‑xxxx‑xxxx**. Kirimkan teks “Saya pesan 1 porsi Soto Daging” (atau kombinasikan dengan bakso). |
+| **3️⃣ Pilih & Konfirmasi** | Penjual akan mengonfirmasi total (harga + pajak). Contoh: Soto Daging Rp 30.000 → Total Rp 30.000. |
+| **4️⃣ Pembayaran** | - **Cash** di tempat. <br> - **E‑wallet** (OVO, GoPay, DANA) – cukup scan QR yang ada di konter. |
+| **5️⃣ Pengambilan** | - **Dine‑in**: tunggu nomor panggilan, biasanya 5‑7 menit. <br> - **Take‑away**: makan di luar atau bawa pulang, siap dalam 5 menit. |
+| **6️⃣ Nikmati** | Sajian soto hangat dengan kuah bening, perlengkapan (kerupuk, sambal, jeruk nipis) sudah tersedia di meja. |
+
+---
+
+### 🎉 Tips & Promo Spesial
+
+| Promo | Waktu | Manfaat |
+|-------|-------|---------|
+| **Happy Hour Soto** | Setiap hari, pukul 15.00‑17.00 | Diskon **10 %** untuk semua porsi soto. |
+| **Combo Bakso + Soto** | Semua hari | Beli 1 porsi Soto Daging, dapat **potongan Rp 5.000** untuk 1 porsi Bakso Spesial. |
+| **Mahasiswa Diskon** | Selasa & Kamis | Tunjukkan kartu pelajar, dapat **gratis satu porsi kerupuk** pada setiap pembelian soto. |
+
+---
+
+### ✅ Ringkasan Cepat
+- **Tempat:** Bakso Titoti – Parung  
+- **Menu unggulan:** Soto Daging (≈ Rp 28‑33 rb) & beragam bakso.  
+- **Cara order:** Datang langsung **atau** WA/telepon, bayar tunai atau e‑wallet, ambil di tempat.  
+- **Promo:** Happy Hour, Combo, dan diskon pelajar tersedia.
+
+Semoga rekomendasi ini membantu Anda menikmati soto yang gurih dan hangat! Selamat makan! 🙌","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Soto
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Soto, ada rekomendasi bagus nih! Coba deh ke **Soto Kemangi, Kemangi** yang ada di surabaya.
+Di sana ada banyak makanan enak loh seperti:
+- Soto Kemangi | Harga: 25000.0
+- S",0.40030967786754984,0.020567422881503563
+Rekomendasikan Ayam,"
+    Pertanyaan: Saya ingin Ayam & bebek. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Geprek Bensu, Karawang
+Kategori: Ayam & bebek
+Produk & Harga:
+- Romantis 1 | Harga: 57750.0
+- Romantis 2 | Harga: 60500.0
+- Combo 1 | Harga: 162000.0
+- Combo 2 | Harga: 162000.0
+- Combo 3 | Harga: 127500.0
+    
+
+    Pertanyaan: Saya ingin Aneka nasi/Ayam & bebek/Seafood. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Ayam Trolok
+Kategori: Aneka nasi/Ayam & bebek/Seafood
+Produk & Harga:
+- Ayam Full | Harga: 100000.0
+- Nasi | Harga: 6000.0
+- Ayam Dada | Harga: 25000.0
+- Ayam Paha | Harga: 25000.0
+- Kepala Ayam | Harga: 6000.0
+    
+
+    Pertanyaan: Saya ingin Ayam & bebek/Seafood/Aneka nasi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: KAMPUNG TELAGA,  Ciracas
+Kategori: Ayam & bebek/Seafood/Aneka nasi
+Produk & Harga:
+- Gurame Bakar | Harga: 90000.0
+- Gurame Goreng | Harga: 90000.0
+- Gurame Asam Manis | Harga: 90000.0
+- Pecak Gurame | Harga: 90000.0
+- Paket Nasi Timbel | Harga: 45000.0
+    ","## 🍗 Rekomendasi Tempat Makan “Ayam” yang Bisa Kamu Coba  
+
+Berikut tiga pilihan **restoran yang spesialnya ayam** (bisa juga bebek atau lauk pelengkap) lengkap dengan menu‑menu andalan serta harga terkini.
+
+| No | Nama Restoran | Lokasi | Kategori | Menu & Harga (Rupiah) |
+|----|---------------|--------|----------|-----------------------|
+| 1️⃣ | **Geprek Bensu** | Karawang | Ayam & Bebek | - Romantis 1 – **57 750** <br> - Romantis 2 – **60 500** <br> - Combo 1 – **162 000** <br> - Combo 2 – **162 000** <br> - Combo 3 – **127 500** |
+| 2️⃣ | **Ayam Trolok** | (tidak disebutkan, biasanya di daerah Jabodetabek) | Aneka Nasi / Ayam & Bebek / Seafood | - Ayam Full – **100 000** <br> - Nasi – **6 000** <br> - Ayam Dada – **25 000** <br> - Ayam Paha – **25 000** <br> - Kepala Ayam – **6 000** |
+| 3️⃣ | **KAMPUNG TELAGA** | Ciracas | Ayam & Bebek / Seafood / Aneka Nasi | - Gurame Bakar – **90 000** <br> - Gurame Goreng – **90 000** <br> - Gurame Asam Manis – **90 000** <br> - Pecak Gurame – **90 000** <br> - Paket Nasi Timbel – **45 000** |
+
+> **Catatan:** Semua harga sudah termasuk pajak. Menu *Combo* pada Geprek Bensu biasanya berisi paket lengkap (ayam + nasi + sambal + minuman).
+
+---
+
+## 📲 Cara Memesan – Langkah demi Langkah
+
+Berikut prosedur umum yang dapat kamu ikuti di ketiga restoran tersebut. Pilih cara yang paling nyaman untukmu!
+
+### 1. Pilih Metode Pemesanan
+| Metode | Kelebihan | Cara Memulai |
+|--------|-----------|--------------|
+| **Datang Langsung (Walk‑in)** | Bisa lihat kondisi tempat, pilih menu langsung, nikmati makanan hangat seketika. | Pastikan jam operasional (biasanya 08.00–22.00). |
+| **Telepon / WA** | Cepat, tidak perlu antri, cocok untuk pesanan *take‑away*. | Hubungi nomor yang tertera di profil Google/Instagram masing‑masing (biasanya tersedia di Google Maps). |
+| **Aplikasi Delivery (GoFood, GrabFood, ShopeeFood)** | Praktis, bayar pakai e‑wallet, makanan diantar ke rumah/kantor. | Cari nama restoran di aplikasi, pilih menu, isi alamat, pilih metode pembayaran. |
+
+### 2. Tentukan Menu & Kuantitas
+1. **Buka daftar menu** (lihat tabel di atas).  
+2. **Catat kode atau nama menu** yang ingin dipesan, misalnya “Romantis 1” atau “Ayam Full”.  
+3. **Tentukan porsi** (biasanya 1 porsi = 1 piring/2 porsi untuk paket).  
+
+### 3. Konfirmasi Harga & Tambahan (Jika Ada)
+- **Tambahan**: nasi ekstra, sambal khusus, atau minuman.  
+- **Diskon**: cek promo harian (mis. “Diskon 10 % untuk pembelian 2 porsi Combo” pada Geprek Bensu).  
+
+### 4. Lakukan Pembayaran
+| Pilihan | Cara |
+|--------|------|
+| **Cash** | Bayar langsung ke kasir (walk‑in) atau ke driver (delivery). |
+| **E‑wallet** | OVO, GoPay, DANA, ShopeePay – pilih di aplikasi atau scan QR di counter. |
+| **Kartu Debit/Kredit** | Hanya di outlet yang menyediakan mesin POS. |
+
+### 5. Tunggu & Nikmati
+- **Walk‑in**: biasanya 5‑10 menit setelah order.  
+- **Delivery**: estimasi 20‑45 menit tergantung jarak.  
+
+---
+
+## 🎉 Tips Supaya Lebih Hemat & Puas
+
+1. **Cek Promo di Media Sosial** – Restoran sering posting kode voucher “AYAM10” atau “MORNING20” di Instagram/Facebook.  
+2. **Paket Hemat** – Kombinasikan *Combo* (ayam + nasi + minuman) untuk harga lebih murah dibanding beli terpisah.  
+3. **Jam Off‑Peak** (biasanya 14.00‑16.00) – beberapa tempat beri **diskon 10 %** pada menu utama.  
+4. **Bawa Botol Minum Sendiri** – beberapa outlet (mis. KAMPUNG TELAGA) memberi potongan Rp 2.000 untuk refill air mineral.
+
+---
+
+## ✅ Ringkasan Cepat
+
+| Restoran | Menu Unggulan | Harga Rata‑Rata | Cara Order Favorit |
+|----------|---------------|----------------|-------------------|
+| **Geprek Bensu** | Romantis 1 / Combo | 57 750 – 162 000 | GoFood atau WA |
+| **Ayam Trolok** | Ayam Full, Ayam Dada | 25 000 – 100 000 | Telepon / Walk‑in |
+| **KAMPUNG TELAGA** | Gurame Bakar, Paket Nasi Timbel | 45 000 – 90 000 | Delivery (GrabFood) |
+
+Silakan pilih restoran yang paling dekat atau sesuai selera, ikuti langkah‑langkah di atas, dan selamat menikmati **ayam lezat**! 🚀  
+
+Jika kamu punya preferensi khusus—misalnya **ayam pedas**, **ayam goreng kremes**, atau **paket makan keluarga**—beritahu saya, nanti saya cari rekomendasi yang lebih spesifik. Selamat makan! 🍽️","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Ayam
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Ayam, ada rekomendasi bagus nih! Coba deh ke **Ayam Gurami Sidoarjo** yang ada di surabaya.
+Di sana ada banyak produk yang coba gurami seperti:
+- Ayam Gurami Kecil | Harga: 10000.0",0.5769463449657594,0.06156263477201517
+Rekomendasikan Mie,"
+    Pertanyaan: Saya ingin Minuman/Jajanan/Kopi. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Groen Kopi
+Kategori: Minuman/Jajanan/Kopi
+Produk & Harga:
+- Manggo Juice | Harga: 31250.0
+- Orange Juice | Harga: 31250.0
+- Strawberry Juice | Harga: 31250.0
+- Classic Tea | Harga: 31250.0
+- Lychee Tea | Harga: 31250.0
+    
+
+    Pertanyaan: Saya ingin Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Kancha, Duri Kosambi
+Kategori: Minuman
+Produk & Harga:
+- Add Pearl | Harga: 4000.0
+- Add Choco Chip | Harga: 4000.0
+- Add Grass Jelly | Harga: 4000.0
+- Add Mango Chunk | Harga: 4000.0
+- Add Strawberry Sauce | Harga: 4000.0
+    
+
+    Pertanyaan: Saya ingin Roti. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Cake Pandeglang Cake
+Kategori: Roti
+Produk & Harga:
+- BF Love Cok Tempel Uk 20cm | Harga: 155000.0
+- Bf Kotak Cok Tempel Uk 20cm | Harga: 155000.0
+- BF Bulat Ukir Tayo Uk20cm | Harga: 160000.0
+- BF Bulat Ukir Doraemon Uk20cm | Harga: 160000.0
+- Bf Bulat Ukir Hello Kitty Uk20cm | Harga: 160000.0
+    ","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.","### Instruksi:
+Rekomendasikan Mie
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau mie, rekomendasikan nih! Coba deh ke **Mie Kokoro, Cibubur** yang ada di jakarta.
+Di sana ada banyak makanan enak loh seperti:
+- Mie Kokoro Original | Harga: 13000.0
+- Mie Kokoro Seafood |",0.41234468004433733,0.04990049701936832
+Rekomendasikan Dessert,"
+    Pertanyaan: Saya ingin Sweets/Barat/Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Holywings Backyard, Kemang
+Kategori: Sweets/Barat/Minuman
+Produk & Harga:
+- Crispy Hot Fried Chicken Wings | Harga: 82500.0
+- Hand Cut Fries W/ Smoked Paprika Salt | Harga: 44000.0
+- Marinara Beef Meatballs | Harga: 101200.0
+- Chitato Nachos | Harga: 71500.0
+- Hand Cut Loaded Fries | Harga: 66000.0
+    
+
+    Pertanyaan: Saya ingin Kopi/Minuman/Cepat saji. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Fore Coffee, Jatiwaringin
+Kategori: Kopi/Minuman/Cepat saji
+Produk & Harga:
+- Bundle Caramel Manuka Macchiato & Caramel Praline Macchiato | Harga: 64000.0
+- Bundle Tropical Manuka Hibiscus & Aren Latte | Harga: 56000.0
+- Bundle Manuka Americano & Aren Latte | Harga: 54000.0
+- Bundle Berry Manuka Americano & Aren Latte | Harga: 56000.0
+- Bundle Creamy Manuka Hibiscus & Aren Latte | Harga: 56000.0
+    
+
+    Pertanyaan: Saya ingin Minuman. Rekomendasikan saya tempat untuk membelinya, termasuk produk dan harganya.
+
+    Referensi Jawaban:
+    Nama Restoran: Kancha, Duri Kosambi
+Kategori: Minuman
+Produk & Harga:
+- Add Pearl | Harga: 4000.0
+- Add Choco Chip | Harga: 4000.0
+- Add Grass Jelly | Harga: 4000.0
+- Add Mango Chunk | Harga: 4000.0
+- Add Strawberry Sauce | Harga: 4000.0
+    ","**Mohon maaf, tidak dapat menemukan rekomendasi yang sesuai.**","**🍰 Rekomendasi Dessert: Martabak Manis “Babakaran Bunda Dafa”**  
+
+- **Apa yang istimewa?** Martabak manis dengan pilihan isi : cokelat, keju, kacang, atau kombinasi rasa lainnya. Teksturnya lembut di dalam, renyah di luar, cocok jadi camilan santai atau penutup makan.  
+- **Harga:** sekitar **Rp 15.000 – Rp 25.000** per potong, tergantung topping pilihan.  
+- **Cara pesan:**  
+  1. Datang langsung ke lokasi (biasanya di area pasar tradisional/food‑court).  
+  2. Pilih rasa & jumlah, konfirmasi harga.  
+  3. Bayar tunai atau e‑wallet (OVO, GoPay, DANA).  
+  4. Nikmati dalam 5‑10 menit.  
+- **Promo spesial:**  
+  - **Happy Hour** (15.00‑17.00) → diskon 10 % untuk semua martabak.  
+  - **Student Deal** (Selasa & Kamis) → gratis topping keju atau cokelat dengan menunjukkan kartu pelajar.  
+
+Selamat menikmati manisnya martabak! 🙌","### Instruksi:
+Rekomendasikan Dessert
+
+### Jawaban:
+Halo! 🌟
+Kalau kamu mau Dessert, ada rekomendasi bagus nih! Coba deh ke **Dessert Bunga, Kemang** yang ada di jakarta.
+Di sana ada banyak dapur enak loh seperti:
+- Paket 1 | Harga: 100000.0
+- Paket ",0.5192087942704124,0.03377156414337854
